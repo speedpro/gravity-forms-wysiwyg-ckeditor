@@ -7,6 +7,7 @@ Author: Adrian Gordon
 Author URI: http://www.itsupportguides.com
 License: GPL2
 Text Domain: gravity-forms-wysiwyg-ckeditor
+Github Plugin URI: speedpro/gravity-forms-wysiwyg-ckeditor
 
 ------------------------------------------------------------------------
 Copyright 2015 Adrian Gordon
